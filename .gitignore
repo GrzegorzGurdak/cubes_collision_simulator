@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+/.vs/basic_game
+/basic_game/x64
+/.git
